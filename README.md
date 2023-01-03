@@ -3,7 +3,7 @@
 My name is Arnaud, I am a junior full-stack developer.
 
 <h2>Projects</h2>
-For now, I work on few projects, but learned a lot :
+<h5>:seedling: For now, I work on few projects, but learned a lot :</h5>
 <br />
 <ul>
   <li>:musical_score:<a href="www.laccroche.me" target="_blank">L'accroche</a>: a professional prototype of an artist matching platform specialized in the music industry.</li>
@@ -12,10 +12,10 @@ For now, I work on few projects, but learned a lot :
 
 Still and continuously working on new projects! :neckbeard:
 
-
-<h4>📫 How to reach me:</h4>
+<h2>Contact Me</h2>
+<h5>📫 You can reach me through:</h5>
 <ul>
-<li>Personal website : www.arnaud-rigourd.com </li> <br />
-<li>Linkedin : https://www.linkedin.com/in/arnaudrigourd/ </li> <br />
+<li>Personal website : www.arnaud-rigourd.com </li>
+<li>Linkedin : https://www.linkedin.com/in/arnaudrigourd/ </li>
 <li>Email : arnaud.rigourd@hotmail.fr</li>
 </ul>
