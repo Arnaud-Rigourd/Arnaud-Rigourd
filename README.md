@@ -2,6 +2,7 @@
 
 My name is Arnaud, I am a junior full-stack developer.
 
+<br />
 
 <h2>Projects</h2>
 <h5>:seedling: For now, I worked on few projects, but learned a lot :</h5>
