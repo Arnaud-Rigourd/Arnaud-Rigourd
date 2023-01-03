@@ -2,6 +2,8 @@
 
 My name is Arnaud, I am a junior full-stack developer.
 
+
+
 <h2>Projects</h2>
 <h5>:seedling: For now, I worked on few projects, but learned a lot :</h5>
 <br />
@@ -11,6 +13,8 @@ My name is Arnaud, I am a junior full-stack developer.
 </ul>
 
 Still and continuously working on new projects! :neckbeard:
+
+
 
 <h2>Contact Me</h2>
 <h5>📫 You can reach me through:</h5>
