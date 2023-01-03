@@ -3,7 +3,7 @@
 My name is Arnaud, I am a junior full-stack developer.
 
 <h2>Projects</h2>
-<h5>:seedling: For now, I work on few projects, but learned a lot :</h5>
+<h5>:seedling: For now, I worked on few projects, but learned a lot :</h5>
 <br />
 <ul>
   <li>:musical_score:<a href="www.laccroche.me" target="_blank">L'accroche</a>: a professional prototype of an artist matching platform specialized in the music industry.</li>
