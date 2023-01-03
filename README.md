@@ -14,6 +14,6 @@ Still and continuously working on new projects! :neckbeard:
 <br />
 
 <h4>📫 How to reach me:</h4>
-- Personal website : www.arnaud-rigourd.com
-- Linkedin : https://www.linkedin.com/in/arnaudrigourd/
+- Personal website : www.arnaud-rigourd.com <br />
+- Linkedin : https://www.linkedin.com/in/arnaudrigourd/ <br />
 - Email : arnaud.rigourd@hotmail.fr
