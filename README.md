@@ -19,7 +19,7 @@ Still and continuously working on new projects! :neckbeard:
 <h2>Contact Me</h2>
 <h5>📫 You can reach me through:</h5>
 <ul>
-  <li>Personal website : <a href="www.arnaud-rigourd.com" target="_blank">www.arnaud-rigourd.com</a> </li>
-<li>Linkedin : <a href="https://www.linkedin.com/in/arnaudrigourd/" target="_blank">@arnaudrigourd</a></li>
-  <li>Email : <a href="mailto:arnaud.rigourd@hotmail.fr" target="_blank">arnaud.rigourd@hotmail.fr</a></li>
+  <li>Personal website: <a href="www.arnaud-rigourd.com" target="_blank">www.arnaud-rigourd.com</a> </li>
+<li>Linkedin: <a href="https://www.linkedin.com/in/arnaudrigourd/" target="_blank">@arnaudrigourd</a></li>
+  <li>Email: <a href="mailto:arnaud.rigourd@hotmail.fr" target="_blank">arnaud.rigourd@hotmail.fr</a></li>
 </ul>
