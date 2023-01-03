@@ -2,7 +2,8 @@
 
 My name is Arnaud, I am a junior full-stack developer.
 
-<h2>For now, I work on few projects, but learned a lot :</h2>
+<h2>Projects</h2>
+For now, I work on few projects, but learned a lot :
 <br />
 <ul>
   <li>:musical_score:<a href="www.laccroche.me" target="_blank">L'accroche</a>: a professional prototype of an artist matching platform specialized in the music industry.</li>
@@ -11,9 +12,10 @@ My name is Arnaud, I am a junior full-stack developer.
 
 Still and continuously working on new projects! :neckbeard:
 
-<br />
 
 <h4>📫 How to reach me:</h4>
-- Personal website : www.arnaud-rigourd.com <br />
-- Linkedin : https://www.linkedin.com/in/arnaudrigourd/ <br />
-- Email : arnaud.rigourd@hotmail.fr
+<ul>
+<li>Personal website : www.arnaud-rigourd.com </li> <br />
+<li>Linkedin : https://www.linkedin.com/in/arnaudrigourd/ </li> <br />
+<li>Email : arnaud.rigourd@hotmail.fr</li>
+</ul>
