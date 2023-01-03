@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hello 👋
 
-<!--
-**Arnaud-Rigourd/Arnaud-Rigourd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Arnaud, I am a junior full-stack developer.
 
-Here are some ideas to get you started:
+<h2>For now, I work on few projects, but learned a lot :</h2>
+<br />
+<ul>
+  <li>:musical_score:<a href="www.laccroche.me" target="_blank">L'accroche</a>: a professional prototype of an artist matching platform specialized in the music industry.</li>
+  <li>:space_invader:<a href="#" target="_blank">Chewie'nb</a>: A fictional prototype of Airbnb in the Star Wars univers where rebels can rent spaceships.</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Still and continuously working on new projects! :neckbeard:
+
+<br />
+
+<h4>📫 How to reach me:</h4>
+- Personal website : www.arnaud-rigourd.com
+- Linkedin : https://www.linkedin.com/in/arnaudrigourd/
+- Email : arnaud.rigourd@hotmail.fr
