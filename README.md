@@ -8,9 +8,9 @@ My name is Arnaud, I am a junior full-stack developer.
 <h5>:seedling: For now, I worked on few projects, but learned a lot :</h5>
 <br />
 <ul>
-  <li>:musical_score: <a href="www.laccroche.me" target="_blank">L'accroche</a>, a professional prototype of an artist matching platform specialized in the music industry.</li>
-  <li>:hamburger: <a href="www.defcal.eu" target="_blank">DefCal</a>, a mobile application that helps you to calculate your daily calories, based on your meals, using the openfactfood's API.</li>
-  <li>:sparkles: <a href="www.loom.com/share/b85d1913556c4d27b202a0dce5cdf317" target="_blank">Awwwardone</a>, a copycat of an amazing JS effect created by Camille Mormal (loom video) </li>
+  <li>:musical_score: <a href="https://www.laccroche.me" target="_blank">L'accroche</a>, a professional prototype of an artist matching platform specialized in the music industry.</li>
+  <li>:hamburger: <a href="https://www.defcal.eu" target="_blank">DefCal</a>, a mobile application that helps you to calculate your daily calories, based on your meals, using the openfactfood's API.</li>
+  <li>:sparkles: <a href="https://www.loom.com/share/b85d1913556c4d27b202a0dce5cdf317" target="_blank">Awwwardone</a>, a copycat of an amazing JS effect created by Camille Mormal (loom video) </li>
   <li>:space_invader: <a href="#" target="_blank">Chewie'nb</a> (offline), a fictional prototype of Airbnb in the Star Wars univers where rebels can rent spaceships.</li>
 </ul>
 <br />
