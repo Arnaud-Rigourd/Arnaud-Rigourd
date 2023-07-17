@@ -8,7 +8,7 @@ My name is Arnaud, I am a junior full-stack developer.
 <h5>:seedling: For now, I worked on few projects, but learned a lot :</h5>
 <br />
 <ul>
-  <li>:alien: <a href="#">Vocal Assistant</a>, Vocal Assistant 2.0 that employs the GPT-3.5 Turbo API to generate pertinent responses, and the Eleven Labs API to establish a system akin to J.A.R.V.I.S. While the script operates via command line, the inputs can be delivered vocally.</li>
+  <li>:alien: <a href="https://github.com/Arnaud-Rigourd/vocalAssistant/tree/master">Vocal Assistant</a>, Vocal Assistant 2.0 that employs the GPT-3.5 Turbo API to generate pertinent responses, and the Eleven Labs API to establish a system akin to J.A.R.V.I.S. While the script operates via command line, the inputs can be delivered vocally.</li>
   <li>:goat: <a href="https://www.find-hint.com" target="_blank">FindHint</a>, a puzzle site to discover my skills in a fun way. (french)</li>
   <li>:musical_score: <a href="https://www.laccroche.me" target="_blank">L'accroche</a>, a professional prototype of an artist matching platform specialized in the music industry.</li>
   <li>:hamburger: <a href="https://www.defcal.eu" target="_blank">DefCal</a>, a mobile application that helps you to calculate your daily calories, based on your meals, using the openfactfood's API. (french)</li>
